@@ -24,13 +24,6 @@ Let’s connect and build something small but impactful!
 - `R programming` basics  
 - Core AI/ML theories (Genetic Algorithms, ANN, etc.)
 
----
-
-### 💬 Ask Me About
-- How I survive BTech CSE (AI & ML) with no placements 😅  
-- Student-friendly project ideas in ML / Web Dev  
-- Where to start with AI if your basics are shaky  
-- Making revision-friendly learning repos
 
 ---
 
