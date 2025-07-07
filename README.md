@@ -1,8 +1,8 @@
-## Hi I’m Prashant 🕊️
+## Hi I’m Prashant🕊️
 
 ### 🛠️ Under Construction (But With Purpose)
 I’m not building the next big thing... *yet*.  
-Right now, I’m laying the foundations — sharpening my skills in C++, Python, Java, Web Dev (MERN + Blockchain), and AI/ML — so that when the time comes, I’ll build with confidence and clarity.
+Right now, I’m laying the foundations — sharpening my skills in C++, Python, Web Dev (MERN + Blockchain), and AI/ML — so that when the time comes, I’ll build with confidence and clarity.
 
 ---
 
@@ -11,7 +11,6 @@ If you’re also a student or self-learner working on:
 - Simple DSA or system design challenges  
 - Hands-on AI/ML notebooks  
 - MERN or blockchain practice projects  
-
 Let’s connect and build something small but impactful!
 
 ---
@@ -21,23 +20,42 @@ Let’s connect and build something small but impactful!
 - `Python` (OOPs, NLP, NLTK)  
 - `MERN + Blockchain` (via NEXSUS course)  
 - `Java` (OOPs, Collections, Threads)  
-- `R programming` basics  
-- Core AI/ML theories (Genetic Algorithms, ANN, etc.)
+- Core AI/ML theories 
 
 
 ---
 
-### ⚡ Fun Byte
-> I stay wide awake on social media, but a single PDF can knock me out.  
-So I turned my learning journey into GitHub repos — now, at least *my commits don’t sleep*.
+## 💻 Coding Profiles:
+<p align="center">
+  <a href="https://leetcode.com/kd-prashant/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/eyem_parth/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://www.codechef.com/users/eyem_parth/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+</p>
+
+---
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyem_parth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-kandpal-1b4375282/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eyem_parth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthkd.coder@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kd-prashant&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kd-prashant&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kd-prashant&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://instagram.com/eyem_parth" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in//prashant-kandpal-1b4375282" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/eyem_parth" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="mailto:parthkd.coder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 
 ### 🧰 Tech Stack I Use / Am Learning
