@@ -57,6 +57,13 @@ Let’s connect and build something small but impactful!
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kd-prashant&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kd-prashant&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kd-prashant&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 ### 🧰 Tech Stack I Use / Am Learning
 
 **Languages**  
