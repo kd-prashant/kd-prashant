@@ -38,8 +38,6 @@ Let’s connect and build something small but impactful!
   </a>
 </p>
 
----
-
 
 ## 🌐 Socials:
 <p align="center">
@@ -57,6 +55,7 @@ Let’s connect and build something small but impactful!
   </a>
 </p>
 
+---
 
 ### 🧰 Tech Stack I Use / Am Learning
 
